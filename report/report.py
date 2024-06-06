@@ -70,7 +70,7 @@ account = f"""{k}
                         .-.=-        -=.-.                       
 
 
-	{lrd}[{lgn}+{lrd}] {gn}Channel : {lgn}@Esfelurm	
+	{lrd}[{lgn}+{lrd}] {gn}Channel : {lgn}@tfcbots ....team tfc 
 			"""	 
 class TelegramReporter:
     def __init__(self):

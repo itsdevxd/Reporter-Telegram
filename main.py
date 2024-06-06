@@ -51,7 +51,7 @@ banner = f"""
 re(banner)
 re("Warning ! This is a test reporter, any offense is the responsibility of the user !")
 print (f"{lrd}")
-t = PrettyTable([f'{cn}Number{lrd}',f'{cn}info{lrd}'])
+t = ([f'{cn}Number{lrd}',f'{cn}info{lrd}'])
 t.add_row([f'{lgn}1{lrd}',f'{gn}Reporter Channel{lrd}'])
 t.add_row([f'{lgn}2{lrd}',f'{gn}Reporter Account{lrd}'])
 t.add_row([f'{lgn}3{lrd}',f'{gn}Reporter Group [Updating]{lrd}'])
